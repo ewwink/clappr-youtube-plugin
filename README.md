@@ -1,6 +1,13 @@
 # clappr-youtube-plugin
 youtube plugin for [Clappr](https://github.com/clappr/clappr/), added options to select playback quality and captions (CC)
 
+## TODO
+- Add Playback Speed
+- Add Subtitle Translation
+- Add Show Hide Annotation
+- Add Setting (Gear icon)
+
+
 ## DEMO
 https://ewwink.github.io/clappr-youtube-plugin/
 
